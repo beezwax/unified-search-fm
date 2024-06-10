@@ -17,6 +17,7 @@ For various reasons, you might want to look behind the curtain of these new scri
 https://blog.beezwax.net/filemaker-semantic-search-part-1-fundamental-power/
 
 https://blog.beezwax.net/filemaker-semantic-search-part-2-key-details/
+
 https://blog.beezwax.net/filemaker-semantic-search-part-3-advanced-fun/
 
 ## Quickstart
