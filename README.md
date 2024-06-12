@@ -1,10 +1,7 @@
-# unified-search-fm
-demo tutorial for unified search using semantic search in FileMaker
-
-# Unified Search (using Semantic Search) with FileMaker 2024
-Tutorial file packaged as Beezwax Unified Search.fmp12
-
+# Unified Search, using Semantic Search with FileMaker 2024
+Demo tutorial file packaged as Beezwax Unified Search.fmp12
 Requires FileMaker 2024 (v21.x)
+Note: This (Beezwax Unified Search) is different from another tutorial file (Beezwax Unified Search **+ Actions**) which adds a demo implementing actions along with Unified Search (using Semantic Search with FileMaker 2024).
 
 ## Introduction
 FileMaker 2024 delivers native semantic search, and it’s awesome. Now you can search records whose text is similar to the semantic meaning of your search term, even if those records don’t include your exact search term. Using natural language, users can be freed from trying to recall exactly how data was input.
