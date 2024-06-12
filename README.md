@@ -1,14 +1,20 @@
 # Unified Search, using Semantic Search with FileMaker 2024
 Demo tutorial file packaged as Beezwax Unified Search.fmp12
+
 Requires FileMaker 2024 (v21.x)
-Note: This (Beezwax Unified Search) is different from another tutorial file (Beezwax Unified Search **+ Actions**) which adds a demo implementing actions along with Unified Search (using Semantic Search with FileMaker 2024).
+
+Note: This (Beezwax Unified Search) is the basic example, and different from the more advanced demo/tutorial file (Beezwax Unified Search **+ Actions**) which also implements actions along with unified search (using Semantic Search with FileMaker 2024).
 
 ## Introduction
 FileMaker 2024 delivers native semantic search, and it’s awesome. Now you can search records whose text is similar to the semantic meaning of your search term, even if those records don’t include your exact search term. Using natural language, users can be freed from trying to recall exactly how data was input.
 
-The tutorial files (and the reference blog posts) explores implementing semantic search in FileMaker, using the 'Perform Semantic Find' script step. The 'CosineSimilarity' function helps expose how (semantically) similar each result is to a user's search term.
+The tutorial files (and the reference blog posts) explore implementing semantic search in FileMaker, using the 'Perform Semantic Find' script step. The 'CosineSimilarity' function helps expose how (semantically) similar each result is to a user's search term. The 'Set AI Call Logging' script step reveals what information these steps are passing to and receiving from your selected model. 
 
-For various reasons, you might want to look behind the curtain of these new script steps, to learn more about what information those steps are passing to and receiving from your selected model. That’s where the new 'Set AI Call Logging' script step comes in.
+This basic example of "unified search" shows how a find across multiple tables, using natural language to construct a semantic search.
+
+There is also a second, more advanced example, showing "unified search **+ actions**".
+
+We recommend you read the Reference Blog Posts for details and links to all demo/tutorial file downloads.
 
 ## Reference Blog Posts
 https://blog.beezwax.net/filemaker-semantic-search-part-1-fundamental-power/
